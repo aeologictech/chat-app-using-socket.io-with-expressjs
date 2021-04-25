@@ -1,0 +1,26 @@
+{
+  "name": "chat-app-using-socket.io-with-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsblend/chat-app-using-socket.io-with-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsblend/chat-app-using-socket.io-with-expressjs/issues"
+  },
+  "homepage": "https://github.com/jsblend/chat-app-using-socket.io-with-expressjs#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.1"
+  }
+}
